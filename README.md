@@ -1,11 +1,11 @@
 # Windows Firewall Interface
 
-This library provides Go with an interface for managing the Windows Firewall, using the Windows COM interface.
+This library provides methods for managing the Windows Firewall, using the Windows COM interface.
 
 
 ## Usage
 
-See the [test program in Go](cmd/main.go) or the [test program](cmd/main.c) in C.
+See the the [test program](cmd/main.c) in C.
 
 ## Internal documentation
 
